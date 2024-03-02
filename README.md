@@ -5,6 +5,7 @@
 <div align="center">
 
 v2.x | Designed & Coded with 💎 by Benny Guo <br>
+v3.x | Forked by Steven Dickinson  <br/>
 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 
   <p align="center">

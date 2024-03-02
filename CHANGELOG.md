@@ -1,5 +1,26 @@
 # CHANGELOG
 
+## Version 3.0.0 (March 2, 2024)
+
+From Steven Dickinson:
+
+I thought I would put my updates to this AMAZING Obsidian theme on GitHub, primarily so I can keep track of my changes.
+
+If you find this and think it's cool too, awesome, enjoy!
+
+My primary goal is to make the headings more distinct.
+
+## Changes
+
+- Added new colors and gradients to h2 - h6.
+- Changing the margins, font weights, padding and borders of the headers.
+- Tried to make a light theme, I don't personally use light theme, so let me know if you find a problem.
+- Other tweaks here and there to suit my note taking style.
+
+---
+
+## Original Change info by Benny Guo
+
 ## Version 2.0 (Oct 9, 2022)
 
 As I have being busy and stopped maintaining this repo for almost 2 years. I am so surprised that a lot of you had still being using and supporting this theme.
